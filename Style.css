@@ -2,10 +2,18 @@
     text-align: center;
     padding:2rem;
     margin:2rem;
-    background-color : orange;
+    background-color :purple;
 }
 
 button {
     margin: 1rem;
-    background-color:orange
+    background-color:purple;
+}
+
+body {
+    background-color:violet;
+}
+
+#txt-input {
+    background-color:white;
 }
